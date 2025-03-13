@@ -1,0 +1,4 @@
+mcp>=1.0.0
+mysql-connector-python>=9.1.0
+sqlalchemy
+llama_index
